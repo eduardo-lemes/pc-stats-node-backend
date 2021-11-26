@@ -1,0 +1,12 @@
+[object Object][object Object]{"free":"8918 MB","total":"16076 MB","usage":"55%"}
+{"free":"8918 MB","total":"16076 MB","usage":"55%"}
+{"free":"8928 MB","total":"16076 MB","usage":"55%"}
+{"free":"8937 MB","total":"16076 MB","usage":"55%"}
+{"free":"8949 MB","total":"16076 MB","usage":"55%"}
+{"free":"8941 MB","total":"16076 MB","usage":"55%"}
+{"free":"8931 MB","total":"16076 MB","usage":"55%"}
+{"free":"8934 MB","total":"16076 MB","usage":"55%"}
+{"free":"8935 MB","total":"16076 MB","usage":"55%"}
+{"free":"8935 MB","total":"16076 MB","usage":"55%"}
+{"free":"8916 MB","total":"16076 MB","usage":"55%"}
+{"free":"8916 MB","total":"16076 MB","usage":"55%"}
